@@ -14,9 +14,9 @@ const WhatGPT3 = () => {
                 <p className="gradient__text">Explore The Library</p>
             </div>
             <div className="gpt3__whatgpt3-container">
-                <Feature />
-                <Feature />
-                <Feature />
+                <Feature title={"What is GPT-3"} text={text} />
+                <Feature title={"What is GPT-3"} text={text} />
+                <Feature title={"What is GPT-3"} text={text} />
             </div>
         </div>
     );
