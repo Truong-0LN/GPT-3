@@ -37,7 +37,7 @@
 .gpt3__feature-container__feature-text p {
     font-family: var(--font-family);
     font-weight: 500;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 16px;
+    line-height: 30px;
     color: var(--color-text);
 }

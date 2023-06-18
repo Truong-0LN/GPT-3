@@ -89,6 +89,15 @@
     margin-top: 2rem;
 }
 
-.gpt3__whatgpt3-container .gpt3__feature-container__feature-text {
+.gpt3__whatgpt3-container .gpt3__feature-container__feature {
     margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.gpt3__whatgpt3-container .gpt3__feature-container__feature-text {
+    margin-top: 3rem;
+}
+.gpt3__whatgpt3-container .gpt3__feature-container__feature-title div {
+    margin-bottom: 1rem;
 }
